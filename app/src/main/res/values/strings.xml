@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="add">Добавить</string>
+    <string name="search">Поиск заметки</string>
+    <string name="setAll">Установка даты и времени</string>
+    <string name="stringTitle">Название заметки не может быть пустым</string>
+    <string name="stringText">Текст заметки не может быть пустым</string>
+</resources>
